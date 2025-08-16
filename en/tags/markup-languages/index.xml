@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup Languages | Nuhova Kamila Ruslanovna</title>
+    <link>https://krnuhova.github.io/en/tags/markup-languages/</link>
+      <atom:link href="https://krnuhova.github.io/en/tags/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup Languages</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krnuhova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup Languages</title>
+      <link>https://krnuhova.github.io/en/tags/markup-languages/</link>
+    </image>
+    
+    <item>
+      <title>Markup Languages and the Role of LaTeX in Scientific Communication</title>
+      <link>https://krnuhova.github.io/en/publication/02/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://krnuhova.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-a-markup-language&#34;&gt;🧭 What is a markup language?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;markup language&lt;/strong&gt; is a way to structure and describe the content of a document using special commands and tags.&lt;br&gt;
+The goal is to separate the &lt;strong&gt;semantic structure&lt;/strong&gt; (headings, lists, formulas, citations, references) from the &lt;strong&gt;presentation&lt;/strong&gt; (fonts, spacing, colors).&lt;/p&gt;
+&lt;h3 id=&#34;key-advantages-of-markup&#34;&gt;Key advantages of markup&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structured content:&lt;/strong&gt; documents are easy to break into logical sections and automatically generate a table of contents, list of figures, and tables.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reproducibility:&lt;/strong&gt; the same source file can be transformed into PDF, HTML, DOCX, and other formats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; references, bibliographies, cross-references, and numbering are generated automatically.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version control:&lt;/strong&gt; plain text is easy to store and track in version control systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-classification-of-markup-languages&#34;&gt;🗂️ Classification of markup languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Presentational:&lt;/strong&gt; describe &lt;em&gt;how content looks&lt;/em&gt; (historically how early HTML worked).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structural/descriptive:&lt;/strong&gt; focus on the &lt;em&gt;meaning&lt;/em&gt; of elements (modern HTML5, XML, Markdown).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procedural:&lt;/strong&gt; combine structure with typesetting and compilation directives (LaTeX belongs here).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-are-markup-languages-used&#34;&gt;🧪 Where are markup languages used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Science and education:&lt;/strong&gt; articles, theses, reports, teaching materials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical documentation:&lt;/strong&gt; manuals, specifications, guides.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web publishing:&lt;/strong&gt; blog posts, project documentation, presentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publishing industry:&lt;/strong&gt; books, collected volumes, complex layouts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-latex-the-de-facto-standard-for-scientific-texts&#34;&gt;🦾 LaTeX: the de facto standard for scientific texts&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; is a procedural markup language and document preparation system designed for professional typography, especially where many formulas, tables, figures, and strict formatting are required.&lt;/p&gt;
+&lt;h3 id=&#34;what-makes-latex-stand-out&#34;&gt;What makes LaTeX stand out&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High-quality typography:&lt;/strong&gt; precise hyphenation, alignment, spacing, mathematical typesetting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced mathematics made easy:&lt;/strong&gt; comprehensive symbol support and clear rendering of complex multi-line formulas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible document structure:&lt;/strong&gt; strict classes and environments for articles, reports, books, and presentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalability:&lt;/strong&gt; from a two-page note to a monograph with hundreds of figures and references.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extensibility:&lt;/strong&gt; thousands of packages for diagrams, algorithms, chemical formulas, glossaries, indexes, multilingual support, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-building-blocks-of-latex&#34;&gt;🧱 Core building blocks of LaTeX&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Document classes:&lt;/strong&gt; standard layouts for articles, reports, books, presentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Packages:&lt;/strong&gt; add-ons for margins, line spacing, captions, bibliographies, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structure:&lt;/strong&gt; sections, subsections, table of contents, lists of figures, appendices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References and citations:&lt;/strong&gt; cross-references to figures, tables, formulas, and sections; integration with bibliography systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Figures and tables:&lt;/strong&gt; placement with captions and automatic numbering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multilingual support:&lt;/strong&gt; tools for localization and correct hyphenation (e.g., for Russian or other languages).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-bibliography-and-citation&#34;&gt;📚 Bibliography and citation&lt;/h2&gt;
+&lt;p&gt;In academic texts, accurate referencing and consistent formatting of sources is critical.&lt;br&gt;
+The LaTeX ecosystem supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bibliographic databases&lt;/strong&gt; with metadata (authors, titles, years, DOIs).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Citation styles&lt;/strong&gt; for journals and conferences (numeric, author–year, etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic bibliography generation&lt;/strong&gt; and cross-references across the document.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-workflows&#34;&gt;🌍 Workflows&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cloud-based:&lt;/strong&gt; collaborative editing in online editors with versioning, comments, and PDF rendering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local compilation:&lt;/strong&gt; installing distributions, adding packages, managing projects with scripts and build profiles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version control integration:&lt;/strong&gt; tracking changes, branching for reviews, maintaining history.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conversion:&lt;/strong&gt; exporting materials into other formats for journals and repositories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-best-practices&#34;&gt;✅ Best practices&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Single source of truth:&lt;/strong&gt; store text, figures, tables, and bibliography in one project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strict structure:&lt;/strong&gt; consistent use of headings, captions, and formatting styles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Meaningful filenames:&lt;/strong&gt; clear prefixes for figures, tables, and diagrams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive elements:&lt;/strong&gt; templates, autogenerated title pages, tables of contents, glossaries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality control:&lt;/strong&gt; regular builds, checking hyphenation, layout issues, references, and numbering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-when-is-latex-especially-useful&#34;&gt;🧩 When is LaTeX especially useful?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Large volumes of mathematical formulas and symbols.&lt;/li&gt;
+&lt;li&gt;Strict formatting requirements from a journal or university.&lt;/li&gt;
+&lt;li&gt;Stable workflows for document preparation and peer review.&lt;/li&gt;
+&lt;li&gt;Long-lived documents with regular updates and reusable parts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-alternatives-and-complementary-approaches&#34;&gt;🔄 Alternatives and complementary approaches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown and other lightweight markup:&lt;/strong&gt; quick drafts, notes, simple documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Static site generators:&lt;/strong&gt; publishing academic content online with consistent styling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conversion tools:&lt;/strong&gt; single source converted into multiple formats (PDF, HTML, DOCX) with unified styles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Markup languages provide discipline, automation, and reproducibility in document preparation.&lt;br&gt;
+&lt;strong&gt;LaTeX&lt;/strong&gt; is a powerful standard for academic communication: it allows authors to focus on content while leaving formatting to the system.&lt;/p&gt;
+&lt;p&gt;For researchers and students, LaTeX is not just a tool — it is the foundation for well-structured, professional, and high-quality academic texts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | Nuhova Kamila Ruslanovna</title>
+    <link>https://krnuhova.github.io/en/tags/ci/cd/</link>
+      <atom:link href="https://krnuhova.github.io/en/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krnuhova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>CI/CD</title>
+      <link>https://krnuhova.github.io/en/tags/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
+      <link>https://krnuhova.github.io/en/publication/01/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://krnuhova.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-cicd&#34;&gt;🔄 What is CI/CD?&lt;/h2&gt;
+&lt;p&gt;In today’s software development world, speed and quality of product delivery play a crucial role.&lt;br&gt;
+This is where &lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; and &lt;strong&gt;Continuous Deployment (CD)&lt;/strong&gt; come into play.&lt;br&gt;
+These practices automate the process of building, testing, and delivering applications, minimizing errors and accelerating the release of new features.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-continuous-integration-ci&#34;&gt;⚙️ Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI&lt;/strong&gt; is a practice where developers regularly merge their changes into a shared repository.&lt;br&gt;
+Each new change automatically goes through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Project build&lt;/li&gt;
+&lt;li&gt;✅ Automated testing&lt;/li&gt;
+&lt;li&gt;✅ Code quality checks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast error detection&lt;/li&gt;
+&lt;li&gt;Maintaining stability of the main codebase&lt;/li&gt;
+&lt;li&gt;Reduced time spent on manual verification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a result, developers can spot and fix issues before changes make their way into the production branch.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-continuous-deployment-cd&#34;&gt;🚀 Continuous Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CD&lt;/strong&gt; is the next step after CI. It includes the automatic delivery and deployment of code to a production or test environment.&lt;/p&gt;
+&lt;p&gt;Possible CD stages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Automatic deployment to a staging environment&lt;/li&gt;
+&lt;li&gt;🔹 Manual or automated release approval&lt;/li&gt;
+&lt;li&gt;🔹 Product delivery to end users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster release cycles&lt;/li&gt;
+&lt;li&gt;Reduced human error&lt;/li&gt;
+&lt;li&gt;Ability to quickly roll back changes in case of failure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-cicd-important&#34;&gt;📈 Why is CI/CD important?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; — new features reach users faster.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality&lt;/strong&gt; — automated testing reduces the number of bugs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliability&lt;/strong&gt; — a stable process lowers risks during updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency&lt;/strong&gt; — the whole team can see the current state of development.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-cicd-in-modern-development&#34;&gt;🧩 CI/CD in Modern Development&lt;/h2&gt;
+&lt;p&gt;CI/CD is not just a set of tools, but part of the &lt;strong&gt;DevOps philosophy&lt;/strong&gt;, which aims to unite development and operations.&lt;br&gt;
+These practices help companies stay agile, adapt quickly to changes, and deliver products that meet user expectations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Continuous Integration and Continuous Deployment have become the industry standard.&lt;br&gt;
+CI/CD enables teams to create reliable and high-quality products, reducing the time from idea to implementation.&lt;/p&gt;
+&lt;p&gt;In the era of digital transformation, mastering these processes becomes a key competitive advantage for both companies and IT professionals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel | Nuhova Kamila Ruslanovna</title>
+    <link>https://krnuhova.github.io/en/tags/travel/</link>
+      <atom:link href="https://krnuhova.github.io/en/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Travel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krnuhova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Travel</title>
+      <link>https://krnuhova.github.io/en/tags/travel/</link>
+    </image>
+    
+    <item>
+      <title>A Trip to Nature — Balancing Study and Rest</title>
+      <link>https://krnuhova.github.io/en/post/04/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://krnuhova.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-of-july-16--july-22&#34;&gt;📌 Week of July 16 – July 22&lt;/h2&gt;
+&lt;p&gt;This week was spent outdoors — together with friends we went out of town. It felt great to change the environment after the stressful exams and the hustle of city life.&lt;/p&gt;
+&lt;p&gt;A campfire, forest walks, and late-night conversations helped me reset. I even managed to solve a couple of programming problems on my laptop — the brain keeps seeking activity anyway.&lt;/p&gt;
+&lt;h2 id=&#34;such-a-balance--rest-combined-with-a-bit-of-study--turned-out-to-be-very-beneficial&#34;&gt;Such a balance — rest combined with a bit of study — turned out to be very beneficial.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | Nuhova Kamila Ruslanovna</title>
+    <link>https://krnuhova.github.io/en/tags/science/</link>
+      <atom:link href="https://krnuhova.github.io/en/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krnuhova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Science</title>
+      <link>https://krnuhova.github.io/en/tags/science/</link>
+    </image>
+    
+    <item>
+      <title>A Personal Website for a Researcher with Hugo Academic</title>
+      <link>https://krnuhova.github.io/en/project/hugo/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://krnuhova.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-does-a-researcher-need-a-personal-website&#34;&gt;🌐 Why does a researcher need a personal website?&lt;/h2&gt;
+&lt;p&gt;In today’s academic community, a personal website has become not just a business card, but a full-fledged tool for building a scientific career. It allows you to gather in one place publications, projects, achievements, contact information, and even a blog with reflections on current research. Such a resource simplifies interaction with colleagues, increases the visibility of research results, and strengthens a professional image.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;🛠 Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a ready-to-use theme for the Hugo static site generator, specially adapted for the needs of researchers, students, and educators.&lt;br&gt;
+Its key advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;strong&gt;Focus on academic activity&lt;/strong&gt;: publications, projects, grants, courses, and achievements are organized into convenient sections.&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;High performance&lt;/strong&gt;: the site runs on static pages, ensuring fast loading and responsiveness.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Flexible design&lt;/strong&gt;: you can choose a minimalist style or customize the appearance to fit personal preferences.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Multilingual support&lt;/strong&gt;: essential for engaging with the international research community.&lt;/li&gt;
+&lt;li&gt;🔒 &lt;strong&gt;Reliability&lt;/strong&gt;: a static site is secure and can be easily hosted on GitHub Pages, Netlify, or any other hosting platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-structure-of-a-researchers-website&#34;&gt;📑 Structure of a researcher’s website&lt;/h2&gt;
+&lt;p&gt;A personal website built with Hugo Academic usually includes several key sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home Page&lt;/strong&gt;: brief information about yourself, research interests, and current position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: list of journal articles, monographs, and conference papers with options to add DOIs and links to originals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: descriptions of research work, lab initiatives, and collaborations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, seminars, lectures, and teaching materials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Awards and Achievements&lt;/strong&gt;: grants, scholarships, prizes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: personal notes, academic reflections, and conference reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This structure helps colleagues and students quickly find relevant information and gain a better understanding of the researcher’s work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-does-it-impact-a-career&#34;&gt;🚀 How does it impact a career?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Increases visibility&lt;/strong&gt; — publications and projects become accessible to a wide circle of colleagues and potential partners.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creates a digital portfolio&lt;/strong&gt; — instead of scattered profiles on various academic networks, you have a unified resource.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplifies communication&lt;/strong&gt; — contact details and links to ResearchGate, ORCID, Google Scholar, and others are gathered in one place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attracts students and collaborators&lt;/strong&gt; — the site serves as a hub for exchanging ideas and finding co-authors.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;A personal website built with &lt;strong&gt;Hugo Academic&lt;/strong&gt; is more than just a page on the internet. It is a professional platform that unites research, achievements, and personal interests into a single digital ecosystem.&lt;/p&gt;
+&lt;p&gt;In the context of global academic competition, such a resource is no longer a luxury, but a necessity for every modern researcher.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
